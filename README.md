@@ -132,7 +132,7 @@ GLP Tracking SDK initialized.
 
 ## Support
 
-- **Documentation**: https://www.glpwinner.com/docs/gtm-template
+- **Documentation**: https://www.glpwinner.com/tech-docs
 - **Issues**: Please use the GitHub Issues tab
 - **Email**: info@glpwinner.com
 
