@@ -13,7 +13,7 @@ The GLP Winner GTM template enables seamless integration of affiliate tracking o
 - 📊 **Conversion Tracking** - Track conversions with optional metadata
 - ⚡ **Async Loading** - Handles script loading without blocking your site
 - 🧪 **Test Mode** - Built-in test mode for development and debugging
-- 🎯 **Smart Attribution** - Supports both click ID and email-based attribution
+- 🎯 **Smart Attribution** - Supports both click ID, IP, and email-based attribution
 
 ## Installation
 
