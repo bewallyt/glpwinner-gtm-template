@@ -134,7 +134,7 @@ GLP Tracking SDK initialized.
 
 - **Documentation**: https://www.glpwinner.com/docs/gtm-template
 - **Issues**: Please use the GitHub Issues tab
-- **Email**: support@glpwinner.com
+- **Email**: info@glpwinner.com
 
 ## License
 
