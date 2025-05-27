@@ -132,7 +132,7 @@ GLP Tracking SDK initialized.
 
 ## Support
 
-- **Documentation**: [[https://www.glpwinner.com/tech-docs/affiliate-tracking-with-google-tag-manager](https://www.glpwinner.com/tech-docs/affiliate-tracking-with-google-tag-manager)](https://www.glpwinner.com/tech-docs/affiliate-tracking-with-google-tag-manager)
+- **Documentation**: [https://www.glpwinner.com/tech-docs/affiliate-tracking-with-google-tag-manager](https://www.glpwinner.com/tech-docs/affiliate-tracking-with-google-tag-manager)
 - **Issues**: Please use the GitHub Issues tab
 - **Email**: info@glpwinner.com
 
