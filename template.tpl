@@ -291,7 +291,7 @@ function trackConversion() {
   const conversionData = buildConversionData();
   
   if (glp && glp.trackConversion) {
-    log('GLP Winner: Tracking conversion with data:', conversionData);
+    log('GLP Winner - Debug: Logging conversion with data:', conversionData);
     
     // Call trackConversion with or without data
     if (conversionData.email || conversionData.conversion_id) {
