@@ -351,8 +351,8 @@ if (tagType === 'init') {
     if (queryPermission('inject_script', SCRIPT_URL)) {
       injectScript(SCRIPT_URL, function() {
         log('GLP Winner: Script loaded successfully');
-        processQueue();
         initializeGLP();
+        processQueue();
       }, function() {
         log('GLP Winner: Failed to load script');
         data.gtmOnFailure();
